@@ -1,0 +1,4 @@
+{"Rewrites":[
+    {"Sourse":"/(.*)","Destination":"/"}
+]
+}
